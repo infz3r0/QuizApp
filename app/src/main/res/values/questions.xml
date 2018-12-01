@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="q_0">The modulus operator (%) in Java can be used only with variables of integer type.</string>
+    <bool name="a_0">false</bool>
+
+    <string name="q_1">Declarations must appear at the start of the body of a Java method.</string>
+    <bool name="a_1">false</bool>
+
+    <string name="q_2">Consider the statement "x = (a > b) ? a : b"; then the value of x is 27, if a = 18 and b = 27.</string>
+    <bool name="a_2">true</bool>
+
+    <string name="q_3">The expression (y >= z &amp;&amp; a == b) is evaluated by first evaluating the expression y >= z, and then evaluating a == b.</string>
+    <bool name="a_3">false</bool>
+
+    <string name="q_4">An array in the Java programming language has the ability to store many different types of values.</string>
+    <bool name="a_4">false</bool>
+
+</resources>
